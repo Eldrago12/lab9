@@ -1,1 +1,2 @@
+This is Developer A's file
 content added by developer B
